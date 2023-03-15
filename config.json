@@ -1,0 +1,16 @@
+{
+    "test": {
+        "s3": {
+            "service_name": "s3",
+            "aws_access_key_id": "key",
+            "aws_secret_access_key": "secret key",
+            "endpoint_url": "https://..."
+        },
+        "dynamodb": {
+            "service_name": "dynamodb",
+            "aws_access_key_id": "key",
+            "aws_secret_access_key": "secret key",
+            "endpoint_url": "https://..."
+        }
+    }
+}
